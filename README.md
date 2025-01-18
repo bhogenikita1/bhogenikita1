@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://www.vecteezy.com/photo/5442693-data-science-analytics-internet-and-technology-concept-concept))
 <h1 align="center">Hi 👋, I'm Nikita Bhoge</h1>
 <h3 align="center"> ● Aspiring Data Scientist ● </h3>
 
