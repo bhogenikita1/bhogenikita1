@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Nikita Bhoge</h1>
 <h3 align="center"> ● Aspiring Data Scientist ● </h3>
 
-<img align="right" alt="Coding" width="400" src="C:\Users\HP\Downloads\githubProfile gof.png">
+![Coding GIF]("C:\Users\HP\Downloads\githubProfile gof.png")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhogenikita1&label=Profile%20views&color=0e75b6&style=flat" alt="bhogenikita1" /> </p>
 
