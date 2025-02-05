@@ -12,7 +12,11 @@
 
 - 💬 Ask me about **Data Science, Machine Learning and Data Analyst**
 
-- 📫 How to reach me :<br>Linkdin: **www.linkedin.com/in/nikita-bhoge-261b75256**<br>
+- 📫 How to reach me :
+<a href="https://www.linkedin.com/in/nikita-bhoge-261b75256" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
 Email: bhogenikita1@gmail.com
 
 <h3 align="left">Connect with me:</h3>
