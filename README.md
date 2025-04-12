@@ -4,7 +4,7 @@
 <h3 align="center"> ● Aspiring Data Scientist ● </h3>
 
 <div align="center">
-  <img alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+  <img alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Fpremium-vector%2Fyoung-woman-working-laptop-office-vector-illustration-flat-style_154185293.htm&psig=AOvVaw2YXJ8JqjRZH3gVLzy-seov&ust=1744577316988000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCJCwzJev04wDFQAAAAAdAAAAABAE" />
 
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhogenikita1&label=Profile%20views&color=0e75b6&style=flat" alt="bhogenikita1" /> </p>
