@@ -16,7 +16,7 @@
 
 - 🔭 I’m currently **Pursuing B.tech in Sanjivani College Of Engineering Kopargoan**
 
-- 💬 Ask me about **Data Science, Machine Learning and Data Analyst**
+- 💬 Ask me about **Data Science, Machine Learning and Data Analysis**
 
 - 📫 How to reach me :
 <a href="https://www.linkedin.com/in/nikita-bhoge-261b75256" target="_blank">
