@@ -12,7 +12,7 @@
 
 
 </div>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhogenikita1&label=Profile%20views&color=0e75b6&style=flat" alt="bhogenikita1" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhogenikita1&label=Profile%20views&color=0e75b6&style=flat" alt="nikitabhoge1" /> </p>
 
 - 🔭 I’m currently **Pursuing B.tech in Sanjivani College Of Engineering Kopargoan**
 
